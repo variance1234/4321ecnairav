@@ -18,10 +18,10 @@ Code| The source code| GitHub
 ## Paper list files info
 
 **Relevant-AI-Papers.csv**
-This file contains the list of AI papers that we found relevant to our study.
+This file contains the list of AI papers that we found relevant to our study during our paper survey.
 
 **Relevant-Non-AI-Papers.csv**
-This file contains the list of Non-AI papers that we found relevant to our study.
+This file contains the list of Non-AI papers that we found relevant to our study during our paper survey.
 
 Column| Description
 ---|---
