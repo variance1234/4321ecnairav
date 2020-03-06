@@ -5,8 +5,8 @@ Material list:
 
 Name(s) |Description|Location
 ---|---|---
-Survey Questions.pdf| The survey questions| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey Questions.pdf)
-Training configuration.pdf| The training configuration for 6 networks| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Training configuration.pdf)
+Survey Questions.pdf| The survey questions| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey.Questions.pdf)
+Training configuration.pdf| The training configuration for 6 networks| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Training.configuration.pdf)
 Relevant-AI-Paper.csv| The list of relevant AI in our survey| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-AI-Paper.csv)
 Relevant-Non-AI-Paper.csv|The list of relevant Non-Ai papers in our survey| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-Non-AI-Paper.csv)
 analysis_result.csv| The analysis result for our experiments| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_result.csv)
