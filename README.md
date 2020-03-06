@@ -5,11 +5,13 @@ Material list:
 
 Name(s) |Description|Location
 ---|---|---
-Survey Questions.pdf| The survey questions| Supplementary, GitHub
-Training configuration.pdf| The training configuration for 6 networks| Supplementary, GitHub
-Relevant-AI-Paper.csv, Relevant-Non-AI-Paper.csv| The list of relevant AI and Non-Ai papers in our survey| Supplementary, GitHub
-analysis_result.csv, analysis_raw.csv| The analysis result for our experiences.| Supplementary, GitHub
-Weights| Folder contains the weights of the most extreme models in our experiments| [GitHub Release](https://github.com/variance1234/4321ecnairav/releases/download/untagged-4d38536c2908d0d6fa09/weights.tar.gz)
+Survey Questions.pdf| The survey questions| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey Questions.pdf)
+Training configuration.pdf| The training configuration for 6 networks| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Training configuration.pdf)
+Relevant-AI-Paper.csv| The list of relevant AI in our survey| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-AI-Paper.csv)
+Relevant-Non-AI-Paper.csv|The list of relevant Non-Ai papers in our survey| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-Non-AI-Paper.csv)
+analysis_result.csv| The analysis result for our experiments| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_result.csv)
+analysis_raw.csv| The analysis result for our experiments| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_raw.csv)
+Weights| Folder contains the weights of the most extreme models in our experiments| [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/untagged-4d38536c2908d0d6fa09/weights.tar.gz)
 Code| The source code| GitHub
 
 
