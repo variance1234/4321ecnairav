@@ -11,7 +11,7 @@ Relevant-AI-Paper.csv| The list of relevant AI in our survey| Supplementary, [Gi
 Relevant-Non-AI-Paper.csv|The list of relevant Non-Ai papers in our survey| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-Non-AI-Paper.csv)
 analysis_result.csv| The analysis result for our experiments| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_result.csv)
 analysis_raw.csv| The analysis result for our experiments| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_raw.csv)
-Weights| Folder contains the weights of the most extreme models in our experiments| [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/untagged-4d38536c2908d0d6fa09/weights.tar.gz)
+Weights| Folder contains the weights of the most extreme models in our experiments| [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/weights.tar.gz)
 Code| The source code| GitHub
 
 
