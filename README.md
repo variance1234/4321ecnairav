@@ -7,9 +7,9 @@ Name(s) |Description|Location
 ---|---|---
 Survey Questions.pdf| The survey questions| Supplementary, GitHub
 Training configuration.pdf| The training configuration for 6 networks| Supplementary, GitHub
-Relevant-AI-Paper.csv| Relevant-Non-AI-Paper.csv| The list of relevant AI and Non-Ai papers in our survey| Supplementary, GitHub
+Relevant-AI-Paper.csv, Relevant-Non-AI-Paper.csv| The list of relevant AI and Non-Ai papers in our survey| Supplementary, GitHub
 analysis_result.csv, analysis_raw.csv| The analysis result for our experiences.| Supplementary, GitHub
-Weights| Folder contains the weights of the most extreme models in our experiments| GitHub
+Weights| Folder contains the weights of the most extreme models in our experiments| [GitHub Release](https://github.com/variance1234/4321ecnairav/releases/download/untagged-4d38536c2908d0d6fa09/weights.tar.gz)
 Code| The source code| GitHub
 
 
