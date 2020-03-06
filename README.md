@@ -19,10 +19,12 @@ This file contains the list of AI papers that we found relevant to our study.
 **Relevant-Non-AI-Papers.csv**
 This file contains the list of Non-AI papers that we found relevant to our study.
 
-+Conference: The conference
-+Title: Paper title
-+Relevant to our study? Does the work train deep learning networks?
-+Do they do multiple identical runs? Do the work report multiple identical runs?
+Column| Description
+---|---
+Conference| The conference
+Title| Paper title
+Relevant to our study? | Does the work train deep learning networks?
+Do they do multiple identical runs? | Do the work report multiple identical runs?
 
 ## Analysis files info
 **analysis_result.csv**
