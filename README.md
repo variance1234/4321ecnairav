@@ -1,19 +1,19 @@
-# Supplementary Material Info
+# Problems and Opportunities in Training Deep LearningSoftware Systems: An Analysis of Variance
 
-Due to the file size limit and for reviewers’ convenience, we only upload small documents with the submission as supplementary material. The Weights and the Code (which are too large to submit as supplementary material) are put in an anonymous GitHub repository: https://github.com/variance1234/4321ecnairav
+This is the repository for the ASE 2020 paper [Problems and Opportunities in Training Deep Learning Software Systems: An Analysis of Variance](https://conf.researchr.org/details/ase-2020/ase-2020-papers/13/Problems-and-Opportunities-in-Training-Deep-Learning-Software-Systems-An-Analysis-of)
 
-## Material list:
+## Artifact list:
 
-Name(s) |Description|Location
----|---|---
-Survey Questions.pdf| The survey questions| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey.Questions.pdf)
-Training configuration.pdf| The training configuration for 6 networks| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Training.configuration.pdf)
-Relevant-AI-Papers.csv| The list of relevant AI in our survey| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-AI-Papers.csv)
-Relevant-Non-AI-Papers.csv|The list of relevant Non-Ai papers in our survey| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-Non-AI-Papers.csv)
-analysis_result.csv| The analysis result for our experiments| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_result.csv)
-analysis_raw.csv| The analysis result for our experiments| Supplementary, [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_raw.csv)
-Weights| Folder contains the weights of the most extreme models in our experiments| [GitHub](https://github.com/variance1234/4321ecnairav/releases/download/1.0/weights.tar.gz)
-Code| The source code| GitHub
+File |Description
+---|---
+[Survey.Questions.pdf](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey.Questions.pdf) | The survey questions| 
+[Survey.Report.pdf](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey.Report.pdf) | The survey aggregated report
+[Training configuration.pdf](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Training.configuration.pdf) | The training configuration for 6 networks
+[Relevant-AI-Papers.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-AI-Papers.csv) | The list of relevant AI in our survey
+[Relevant-Non-AI-Papers.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-Non-AI-Papers.csv) |The list of relevant Non-Ai papers in our survey
+[analysis_result.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_result.csv) | The analysis result for our experiments
+[analysis_raw.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_raw.csv) | The analysis result for our experiments
+[weights.tar.gz](https://github.com/variance1234/4321ecnairav/releases/download/1.0/weights.tar.gz) | Folder contains the weights of the most extreme models in our experiments
 
 
 ## Paper list files info
