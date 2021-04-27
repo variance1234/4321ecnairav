@@ -1,22 +1,22 @@
-# Problems and Opportunities in Training Deep LearningSoftware Systems: An Analysis of Variance
+# Problems and Opportunities in Training Deep Learning Software Systems: An Analysis of Variance
 
 This is the repository for the ASE 2020 paper [Problems and Opportunities in Training Deep Learning Software Systems: An Analysis of Variance](https://conf.researchr.org/details/ase-2020/ase-2020-papers/13/Problems-and-Opportunities-in-Training-Deep-Learning-Software-Systems-An-Analysis-of)
 
-## Artifact list:
+## Artifacts list:
 
 File |Description
 ---|---
-[Survey.Questions.pdf](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey.Questions.pdf) | The survey questions| 
+[Survey.Questions.pdf](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey.Questions.pdf) | The survey questions
 [Survey.Report.pdf](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Survey.Report.pdf) | The survey aggregated report
-[Training configuration.pdf](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Training.configuration.pdf) | The training configuration for 6 networks
-[Relevant-AI-Papers.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-AI-Papers.csv) | The list of relevant AI in our survey
-[Relevant-Non-AI-Papers.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-Non-AI-Papers.csv) |The list of relevant Non-Ai papers in our survey
+[Training configuration.pdf](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Training.configuration.pdf) | The training configuration for the 6 networks
+[Relevant-AI-Papers.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-AI-Papers.csv) | The list of relevant AI papers in our survey
+[Relevant-Non-AI-Papers.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/Relevant-Non-AI-Papers.csv) |The list of relevant Non-AI papers in our survey
 [analysis_result.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_result.csv) | The analysis result for our experiments
-[analysis_raw.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_raw.csv) | The analysis result for our experiments
-[weights.tar.gz](https://github.com/variance1234/4321ecnairav/releases/download/1.0/weights.tar.gz) | Folder contains the weights of the most extreme models in our experiments
+[analysis_raw.csv](https://github.com/variance1234/4321ecnairav/releases/download/1.0/analysis_raw.csv) | The raw analysis result for our experiments
+[weights.tar.gz](https://github.com/variance1234/4321ecnairav/releases/download/1.0/weights.tar.gz) | The folder containing the weights of the most extreme models in our experiments
 
 
-## Paper list files info
+## Paper listing files' info
 
 **Relevant-AI-Papers.csv**
 This file contains the list of AI papers that we found relevant to our study during our paper survey.
@@ -31,7 +31,7 @@ Title| Paper title
 Relevant to our study? | Does the work train deep learning networks?
 Do they do multiple identical runs? | Do the work report multiple identical runs?
 
-## Analysis files info
+## Analysis files' info
 **analysis_result.csv**
 This file contains the main analysis result of the experimental runs
 
