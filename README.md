@@ -85,3 +85,6 @@ try| run index
 accuracy| overall accuracy of the model
 convergent| time to convergence of this run
 convergent_epoch| number of epochs to convergence
+
+# This survey study qualifies for an exemption under 45 CFR 46.101(b)(2) from Purdue's Institutional Review Board (IRB-2020-234).
+
