@@ -16,7 +16,7 @@ File |Description
 [weights.tar.gz](https://github.com/variance1234/4321ecnairav/releases/download/1.0/weights.tar.gz) | The folder containing the weights of the most extreme models in our experiments
 
 
-## Paper listing files' info:
+## Details of the paper listing files:
 
 **Relevant-AI-Papers.csv**
 This file contains the list of AI papers that we found relevant to our study during our paper survey.
@@ -31,7 +31,7 @@ Title| Paper title
 Relevant to our study? | Does the work train deep learning networks?
 Do they do multiple identical runs? | Do the work report multiple identical runs?
 
-## Analysis files' info:
+## Details of the analysis files:
 **analysis_result.csv**
 This file contains the main analysis result of the experimental runs
 
