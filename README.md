@@ -29,7 +29,7 @@ Column| Description
 Conference| The conference
 Title| Paper title
 Relevant to our study? | Does the work train deep learning networks?
-Do they do multiple identical runs? | Do the work report multiple identical runs?
+Do they do multiple identical runs? | Does the work report multiple identical runs?
 
 ## Details of the analysis files:
 **analysis_result.csv**
@@ -52,8 +52,8 @@ std_dev_accuracy| overall accuracy standard deviation
 mean_accuracy| mean overall accuracy	
 max_diff_label| the class index with the largest accuracy gap for this experimental set	
 max_per_label_acc_diff| largest per-class accuracy difference	
-max_label_accuracy	| largest per-class accurate for the class 
-min_label_accuracy| lowest per-class accurate for the class	
+max_label_accuracy	| largest per-class accuracy for the class 
+min_label_accuracy| lowest per-class accuracy for the class	
 no_samples_max_diff| number of test samples for class (max_diff_label)	
 max_std_label| the class index with the largest per-class accuracy standard deviation for this experimental set		
 max_per_label_acc_std| the per-class accuracy standard deviations	
@@ -63,7 +63,7 @@ max_convergent| convergence time of the slowest run (most time)
 min_convergent| convergence time of the fastest run (least time)	
 std_dev_convergent	| standard deviation of convergence times
 mean_convergent| average convergence time	
-max_convergent_diff_epoch| largest number of epochs to convergence difference	
+max_convergent_diff_epoch| largest gap of the number of epochs to convergence 	
 max_convergent_epoch| largest number of epochs to convergence	
 min_convergent_epoch| smallest number of epochs to convergence	
 std_dev_convergent_epoch| standard deviation of the number of epochs to convergence
